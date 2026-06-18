@@ -53,7 +53,7 @@ flowchart TD
 
     P --> R["Store Alert History"]
 
-    R --> S["Manual Review"]
+    Q --> S["Manual Review"]
 
 ```
 
